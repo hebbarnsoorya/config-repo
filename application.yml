@@ -2,4 +2,18 @@ app:
   name: testname
   mobile: 8989898
 
-skills: java
+skills: java, js
+
+my:
+  greeting: Hello I m from config-server
+  list:
+   skills: one, two, three 
+
+db:
+    dbUrl: db-url-link
+    dbUsername: usernameDB
+    dbPassword: passdb
+    dbMaxConnections: 10
+    dbConnectionTimeOut: 3600
+
+    
