@@ -15,5 +15,7 @@ db:
     dbPassword: passdb
     dbMaxConnections: 10
     dbConnectionTimeOut: 3600
+custom:
+    message: This is from Git Config-server - default
 
     
