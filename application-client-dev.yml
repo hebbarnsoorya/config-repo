@@ -10,7 +10,7 @@ my:
    skills: one, two, three 
 
 db:
-    dbUrl: db-url-link - client-dev profile
+    dbUrl: db-url-link - client-dev profile  - client-dev profile
     dbUsername: usernameDB
     dbPassword: passdb
     dbMaxConnections: 10
