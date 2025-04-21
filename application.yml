@@ -5,7 +5,7 @@ app:
 skills: java, js
 
 my:
-  greeting: Hello I m from config-server
+  greeting: Hello I m from config-server - default profile
   list:
    skills: one, two, three 
 
