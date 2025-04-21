@@ -8,7 +8,7 @@ my:
   greeting: Hello I m from config-server - product-service-dev profile
   list:
    skills: one, two, three 
-
+  test: test message from dev profile git props
 db:
     dbUrl: db-url-link - product-service-dev profile
     dbUsername: usernameDB
