@@ -1,0 +1,6 @@
+my:
+  list:
+    skills:
+      - Java
+      - Spring Boot
+      - Docker
